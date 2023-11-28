@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AKINYEMI Blessing Tosin
 ===============================================================================================================================================
 
-Web Developer
+A Web Developer
 -------------
 
-I've been learning to code in less than two months now, i started with HTML and hoping to learn as much programming language as i can.
+I've been learning to code for less than two months now, I started with HTML, and I hope to learn as much programming language as I can.
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [tosinblessing.akinyemi@gmail.com](mailto:tosinblessing.akinyemi@gmail.com)
 *   🧠  I'm learning Django Framework
-*   🤝  I'm open to collaborating on Intresting Projects
+*   🤝  I'm open to collaborating on interesting projects
 *   ⚡  i like the tech world### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
